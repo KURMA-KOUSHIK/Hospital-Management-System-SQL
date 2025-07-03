@@ -71,5 +71,5 @@ dbms/
 
 ## 📄 License
 
-This project is for educational purposes as part of a DBMS course assignment.
+- **Kurma Koushik** – [GitHub](https://github.com/KURMA-KOUSHIK) · [LinkedIn](https://www.linkedin.com/in/kurma-koushik-690ab32b9/)
 
